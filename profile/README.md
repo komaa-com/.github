@@ -2,9 +2,9 @@
 
 # StandIn
 
-### A virtual employee in your Microsoft Teams calls
+### Your AI teammate in Microsoft Teams calls
 
-Put your own AI agent into a Microsoft Teams call as a real participant, in your own tenant. It answers and places calls, sees the caller's camera and screen-share, converses in real time, and appears as a lip-synced avatar. Free sandbox, no Azure bot, no card.
+Put your own AI agent into a Microsoft Teams call as a real teammate, in your own tenant. It answers and places calls, sees the caller's camera and screen-share, converses in real time, and appears as a lip-synced avatar. Free sandbox, no Azure bot, no card.
 
 [**Try it - standin.komaa.com**](https://standin.komaa.com) &nbsp;·&nbsp; [**Documentation**](https://docs.komaa.com) &nbsp;·&nbsp; [**Quickstart**](https://docs.komaa.com/quickstart)
 
