@@ -20,13 +20,13 @@ Seven backends, published on npm and PyPI:
 
 | Backend | What it connects | Package |
 |---|---|---|
-| **OpenClaw** | The OpenClaw framework, as a plugin | [![npm](https://img.shields.io/npm/v/@komaa/openclaw-msteams-bridge?label=%40komaa%2Fopenclaw-msteams-bridge&color=cb3837&logo=npm)](https://www.npmjs.com/package/@komaa/openclaw-msteams-bridge) |
-| **Hermes** | The Hermes Agent, as a plugin | [![PyPI](https://img.shields.io/pypi/v/hermes-msteams-bridge?label=hermes-msteams-bridge&color=3775a9&logo=pypi&logoColor=white)](https://pypi.org/project/hermes-msteams-bridge/) |
-| **ElevenLabs** | A hosted ElevenLabs Agent | [![npm](https://img.shields.io/npm/v/@komaa/elevenlabs-msteams-bridge?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@komaa/elevenlabs-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/elevenlabs-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white)](https://pypi.org/project/elevenlabs-msteams-bridge/) |
-| **LiveKit** | Any LiveKit Agent, including avatar agents | [![npm](https://img.shields.io/npm/v/@komaa/livekit-msteams-bridge?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@komaa/livekit-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/livekit-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white)](https://pypi.org/project/livekit-msteams-bridge/) |
-| **OpenAI** | OpenAI Realtime (`gpt-realtime`) | [![npm](https://img.shields.io/npm/v/@komaa/openai-msteams-bridge?label=%40komaa%2Fopenai-msteams-bridge&color=cb3837&logo=npm)](https://www.npmjs.com/package/@komaa/openai-msteams-bridge) |
-| **Deepgram** | A Deepgram Voice Agent | [![npm](https://img.shields.io/npm/v/@komaa/deepgram-msteams-bridge?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@komaa/deepgram-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/deepgram-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white)](https://pypi.org/project/deepgram-msteams-bridge/) |
-| **Cartesia** | A Cartesia Line voice agent | [![npm](https://img.shields.io/npm/v/@komaa/cartesia-msteams-bridge?label=%40komaa%2Fcartesia-msteams-bridge&color=cb3837&logo=npm)](https://www.npmjs.com/package/@komaa/cartesia-msteams-bridge) |
+| **OpenClaw** | The OpenClaw framework, as a plugin | [![npm](https://img.shields.io/npm/v/@komaa/openclaw-msteams-bridge?label=%40komaa%2Fopenclaw-msteams-bridge&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/openclaw-msteams-bridge) |
+| **Hermes** | The Hermes Agent, as a plugin | [![PyPI](https://img.shields.io/pypi/v/hermes-msteams-bridge?label=hermes-msteams-bridge&color=3775a9&logo=pypi&logoColor=white&cacheSeconds=86400)](https://pypi.org/project/hermes-msteams-bridge/) |
+| **ElevenLabs** | A hosted ElevenLabs Agent | [![npm](https://img.shields.io/npm/v/@komaa/elevenlabs-msteams-bridge?label=npm&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/elevenlabs-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/elevenlabs-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white&cacheSeconds=86400)](https://pypi.org/project/elevenlabs-msteams-bridge/) |
+| **LiveKit** | Any LiveKit Agent, including avatar agents | [![npm](https://img.shields.io/npm/v/@komaa/livekit-msteams-bridge?label=npm&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/livekit-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/livekit-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white&cacheSeconds=86400)](https://pypi.org/project/livekit-msteams-bridge/) |
+| **OpenAI** | OpenAI Realtime (`gpt-realtime`) | [![npm](https://img.shields.io/npm/v/@komaa/openai-msteams-bridge?label=%40komaa%2Fopenai-msteams-bridge&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/openai-msteams-bridge) |
+| **Deepgram** | A Deepgram Voice Agent | [![npm](https://img.shields.io/npm/v/@komaa/deepgram-msteams-bridge?label=npm&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/deepgram-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/deepgram-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white&cacheSeconds=86400)](https://pypi.org/project/deepgram-msteams-bridge/) |
+| **Cartesia** | A Cartesia Line voice agent | [![npm](https://img.shields.io/npm/v/@komaa/cartesia-msteams-bridge?label=%40komaa%2Fcartesia-msteams-bridge&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/cartesia-msteams-bridge) |
 
 Each backend has its own docs site with a getting-started guide, configuration reference, and a runnable example. Start at **[docs.komaa.com](https://docs.komaa.com)**.
 
@@ -58,7 +58,7 @@ A Teams call becomes a true two-way video conversation:
 
 ## About
 
-StandIn is built by **Komaa DigiTech** (United Arab Emirates). Every bridge is open source, security-reviewed, and published under a permissive MIT license.
+Every bridge is open source, security-reviewed, and published under a permissive MIT license.
 
 <div align="center">
 
