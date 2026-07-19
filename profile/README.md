@@ -28,8 +28,6 @@ Seven backends, published on npm and PyPI:
 | **Deepgram** | A Deepgram Voice Agent | [![npm](https://img.shields.io/npm/v/@komaa/deepgram-msteams-bridge?label=npm&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/deepgram-msteams-bridge) [![PyPI](https://img.shields.io/pypi/v/deepgram-msteams-bridge?label=PyPI&color=3775a9&logo=pypi&logoColor=white&cacheSeconds=86400)](https://pypi.org/project/deepgram-msteams-bridge/) |
 | **Cartesia** | A Cartesia Line voice agent | [![npm](https://img.shields.io/npm/v/@komaa/cartesia-msteams-bridge?label=%40komaa%2Fcartesia-msteams-bridge&color=cb3837&logo=npm&cacheSeconds=86400)](https://www.npmjs.com/package/@komaa/cartesia-msteams-bridge) |
 
-Each backend has its own docs site with a getting-started guide, configuration reference, and a runnable example. Start at **[docs.komaa.com](https://docs.komaa.com)**.
-
 ## How it works
 
 ```mermaid
@@ -59,9 +57,3 @@ A Teams call becomes a true two-way video conversation:
 ## About
 
 Every bridge is open source, security-reviewed, and published under a permissive MIT license.
-
-<div align="center">
-
-[Website](https://standin.komaa.com) &nbsp;·&nbsp; [Docs](https://docs.komaa.com) &nbsp;·&nbsp; [Company](https://komaa.com)
-
-</div>
